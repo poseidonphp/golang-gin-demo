@@ -1,0 +1,1 @@
+Following guide from https://ututuv.medium.com/building-user-authentication-and-authorisation-api-in-go-using-gin-and-gorm-93dfe38e0612
